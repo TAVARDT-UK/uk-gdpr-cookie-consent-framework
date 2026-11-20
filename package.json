@@ -1,0 +1,22 @@
+{
+  "name": "@tavardt/uk-gdpr-cookie-consent-framework",
+  "version": "1.0.0",
+  "description": "Lightweight UK GDPR & PECR compliant cookie consent framework with Google Consent Mode v2 support and automated audit tools.",
+  "main": "src/tavardt-consent.js",
+  "keywords": [
+    "uk-gdpr",
+    "cookie-consent",
+    "pecr",
+    "consent-mode-v2",
+    "web-governance",
+    "privacy-first",
+    "tavardt"
+  ],
+  "author": "TAVARDT UK <technical@tavardt.com> (https://ag.tavardt.com/uk/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TAVARDT-UK/uk-gdpr-cookie-consent-framework.git"
+  },
+  "homepage": "https://tools.tavardt.com/uk/consent-mode-v2-checker/"
+}
