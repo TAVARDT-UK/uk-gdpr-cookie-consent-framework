@@ -65,6 +65,14 @@ For enterprise web development, bespoke performance architecture, and full priva
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/uk/
+* **Diagnostic Suite:** https://tools.tavardt.com/uk/
+* **Technical Contact:** https://ag.tavardt.com/uk/contact/
+
+***
+
 ## License
 
 Released under the MIT License. See [LICENSE](LICENSE) for full details.
