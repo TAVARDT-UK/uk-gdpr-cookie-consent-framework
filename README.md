@@ -6,7 +6,7 @@
 
 A lightweight, zero-dependency, privacy-first cookie consent manager and Google Consent Mode v2 implementation engineered strictly for United Kingdom legal standards (UK GDPR, Data Protection Act 2018, and Privacy and Electronic Communications Regulations).
 
-Maintained by the engineering practice at **TAVARDT UK**.
+Maintained by the engineering practice at **TAVARDT**.
 
 ***
 
@@ -58,12 +58,16 @@ Verify that your website correctly implements Consent Mode v2 and complies with 
 
 For enterprise web development, bespoke performance architecture, and full privacy compliance audits across the UK:
 
-* **UK Headquarters:** Portal Institucional
+* **UK Headquarters:** Institutional Portal
 * **Web Engineering Services:** [https://ag.tavardt.com/uk/web-design/](https://ag.tavardt.com/uk/web-design/)
-* **Contact Engineering Directorate:** [Canal de Contato](https://ag.tavardt.com/uk/contact/)
+* **Contact Engineering Directorate:** [Contact Channel](https://ag.tavardt.com/uk/contact/)
 
 ***
 
 ## License
 
-Released under the MIT License. Copyright (c) 2026 TAVARDT.
+Released under the MIT License. Copyright
+
+***
+
+© 2026 TAVARDT. All rights reserved.
