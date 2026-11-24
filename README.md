@@ -1,4 +1,4 @@
-# UK GDPR & PECR Cookie Consent Framework | TAVARDT UK
+# UK GDPR & PECR Cookie Consent Framework
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Diagnostic Suite](https://img.shields.io/badge/TAVARDT-Verification%20Suite-5b3cf5.svg)](https://tools.tavardt.com/uk/)
@@ -66,4 +66,4 @@ For enterprise web development, bespoke performance architecture, and full priva
 
 ## License
 
-Released under the MIT License. Copyright (c) 2026 TAVARDT UK.
+Released under the MIT License. Copyright (c) 2026 TAVARDT.
