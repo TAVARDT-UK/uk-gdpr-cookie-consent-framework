@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Diagnostic Suite](https://img.shields.io/badge/TAVARDT-Verification%20Suite-5b3cf5.svg)](https://tools.tavardt.com/uk/)
 [![UK Governance](https://img.shields.io/badge/Compliance-UK%20GDPR%20%26%20PECR-00C853.svg)](https://ag.tavardt.com/uk/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A lightweight, zero-dependency, privacy-first cookie consent manager and Google Consent Mode v2 implementation engineered strictly for United Kingdom legal standards (UK GDPR, Data Protection Act 2018, and Privacy and Electronic Communications Regulations).
 
@@ -66,8 +67,7 @@ For enterprise web development, bespoke performance architecture, and full priva
 
 ## License
 
-Released under the MIT License. Copyright
-
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 ***
 
 © 2026 TAVARDT. All rights reserved.
