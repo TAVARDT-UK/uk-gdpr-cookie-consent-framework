@@ -6,9 +6,9 @@
 
 A lightweight, zero-dependency, privacy-first cookie consent manager and Google Consent Mode v2 implementation engineered strictly for United Kingdom legal standards (UK GDPR, Data Protection Act 2018, and Privacy and Electronic Communications Regulations).
 
-Maintained by the engineering practice at **[TAVARDT UK](https://ag.tavardt.com/uk/)**.
+Maintained by the engineering practice at **TAVARDT UK**.
 
----
+***
 
 ## 1. Architectural Highlights
 
@@ -17,7 +17,7 @@ Maintained by the engineering practice at **[TAVARDT UK](https://ag.tavardt.com/
 * **Granular Preference Management:** Independent categories for Necessary, Analytics, and Marketing cookies.
 * **Full Keyboard Accessibility:** Fully navigable via keyboard controls, respecting WCAG 2.1 AA standards.
 
----
+***
 
 ## 2. Quick Start Integration
 
@@ -41,7 +41,7 @@ Include the baseline script in your document head before loading Google Tag Mana
 <script src="src/tavardt-consent.js" defer></script>
 ```
 
----
+***
 
 ## 3. Online Diagnostic Verification
 
@@ -50,19 +50,19 @@ Verify that your website correctly implements Consent Mode v2 and complies with 
 * [Consent Mode v2 Auditor](https://tools.tavardt.com/uk/consent-mode-v2-checker/): Checks tag sequencing and consent signals.
 * [Security Headers Compliance Check](https://tools.tavardt.com/uk/security-headers-check/): Audits CSP, HSTS, and referrer boundaries.
 * [Core Web Vitals Real-Time Benchmark](https://tools.tavardt.com/uk/core-web-vitals-checker/): Tests LCP, INP, and CLS metrics.
-* [Full Diagnostic Suite](https://tools.tavardt.com/uk/): 20 free technical tools.
+* Full Diagnostic Suite: 20 free technical tools.
 
----
+***
 
 ## 4. Professional Engineering & Compliance Audits
 
 For enterprise web development, bespoke performance architecture, and full privacy compliance audits across the UK:
 
-* **UK Headquarters:** [https://ag.tavardt.com/uk/](https://ag.tavardt.com/uk/)
+* **UK Headquarters:** Portal Institucional
 * **Web Engineering Services:** [https://ag.tavardt.com/uk/web-design/](https://ag.tavardt.com/uk/web-design/)
-* **Contact Engineering Directorate:** [https://ag.tavardt.com/uk/contact/](https://ag.tavardt.com/uk/contact/)
+* **Contact Engineering Directorate:** [Canal de Contato](https://ag.tavardt.com/uk/contact/)
 
----
+***
 
 ## License
 
