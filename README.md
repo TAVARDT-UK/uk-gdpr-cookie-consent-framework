@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Diagnostic Suite](https://img.shields.io/badge/TAVARDT-Verification%20Suite-5b3cf5.svg)](https://tools.tavardt.com/uk/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Node.js-yellow.svg)](https://nodejs.org/)
 [![UK Governance](https://img.shields.io/badge/Compliance-UK%20GDPR%20%26%20PECR-00C853.svg)](https://ag.tavardt.com/uk/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -59,9 +60,7 @@ Verify that your website correctly implements Consent Mode v2 and complies with 
 
 For enterprise web development, bespoke performance architecture, and full privacy compliance audits across the UK:
 
-* **UK Headquarters:** Institutional Portal
 * **Web Engineering Services:** [https://ag.tavardt.com/uk/web-design/](https://ag.tavardt.com/uk/web-design/)
-* **Contact Engineering Directorate:** [Contact Channel](https://ag.tavardt.com/uk/contact/)
 
 ***
 
